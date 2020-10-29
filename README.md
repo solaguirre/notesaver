@@ -6,7 +6,6 @@
 Note Saver is an application that allows users to write, save and delete notes. 
 
   ## Table of Contents
-
     
  * [Description](#description)
     
@@ -18,13 +17,12 @@ Note Saver is an application that allows users to write, save and delete notes.
     
  * [Contributing](#contributing)
     
- * [Tests](#tests)
-    
  * [Questions](#questions)
 
    
   ## Installation 
-
+The packages required before running the application are `fs`, `express` and `uuid`.
+Users must run the packages using the intergrated terminal within the VS Code editor and run `npm install` followed by each of the package names. Example: `npm install express`
  
   ## Usage 
 The application is important to help users keep track of a myriad of information. It is easy to forget tasks, appointments and important events, so Note Saver helps users have their written information in text notes and available to them when needed.
@@ -32,12 +30,11 @@ The application is important to help users keep track of a myriad of information
   ## License 
 MIT License
  
-  ## Contributing 
+  ## Contributor 
 Marisol Aguirre 
- 
-  ## Tests 
+Junior Full Stack Developer
+University of Arizona Coding BootCamp
 
-  
   ## Questions 
  If you have any questions or would like to contribute, contact me:
   
