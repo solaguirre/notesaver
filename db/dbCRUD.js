@@ -1,16 +1,25 @@
-CRUD 
+// CRUD 
 
-call the different methods
+// call the different methods
+function createNewNote(){
 
-getNotes(){
+    updateNote();
+};
+
+
+
+function readNote(){
     
-};
-
-createNote(){
 
 };
 
-deleteNote(){
+function updateNote(){
+
+
+
+};
+
+function deleteNote(){
     return
 
 };
